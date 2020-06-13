@@ -1,0 +1,46 @@
+	*{
+			box-sizing: border-box;
+		}
+		#resturant-template-section{
+			background-image: url(images/bg1-chilli.jpg);
+			background-size:cover;
+			background-repeat: no-repeat;
+
+		}
+		.section1-i{
+			position:absolute;
+			top:50%;
+			left:1%;
+		}
+		.section1-i2{
+			position:absolute;
+			bottom:45%;
+			right:1%;
+		}
+		#party{
+			background-image: url(images/card1.jpg);
+			background-size:cover;
+			background-repeat: no-repeat;
+		}
+		#wedding{
+			background-image: url(images/card2.jpg);
+			background-size:cover;
+			background-repeat: no-repeat;
+		}
+		#cooperate-event{
+			background-image: url(images/card3.jpg);
+			background-size:cover;
+			background-repeat: no-repeat;
+		}
+		#birthday{
+			background-image: url(images/card4.jpg);
+			background-size:cover;
+			background-repeat: no-repeat;
+		}
+		#map{
+			background-image: url(images/map.jpg);
+			background-size:cover;
+			background-repeat: no-repeat;
+			
+		}
+		
